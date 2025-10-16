@@ -1,5 +1,5 @@
 # [Gabriel Nunes] 
-- 🚀 Atualmente estou aprendendo: <strong>Python.</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Python e Java.</strong> 
 - 💬 Pergunte-me sobre: <strong>Arte, Games. </strong>
 - 📣 Nós podemos falar em: <strong>Português ou Inglês.</strong>
 
