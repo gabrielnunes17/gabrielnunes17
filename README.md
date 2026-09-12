@@ -12,10 +12,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas atuando como Desenvolved
 ### Linguagens & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Fastify](https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -29,15 +30,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas atuando como Desenvolved
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-##  Projetos em Destaque
-
-* **Prol Edupass:** Refatoração e atualização de uma Single Page Application (SPA) em React, lidando com débitos técnicos e estruturação do frontend.<br>
-  [![Repositório](https://img.shields.io/badge/Repositório-blue?style=flat-square)](https://github.com/gabrielnunes17/proledupass-riseup)
-
-* **Projeta:** Uma plataforma estratégica de governança acadêmica e vitrine tecnológica, concebida para centralizar o ciclo de vida da produção prática em instituições de ensino e estabelecer uma conexão direta com o mercado de trabalho.<br>
-  [![Frontend](https://img.shields.io/badge/Frontend_Repositório-blue?style=flat-square)](https://github.com/gabrielnunes17/projeta-observatorio-pi-frontend)
-  [![Backend](https://img.shields.io/badge/Backend_Repositório-green?style=flat-square)](https://github.com/gabrielnunes17/projeta-observatorio-pi-backend)
 
 ##  Como me encontrar
 
